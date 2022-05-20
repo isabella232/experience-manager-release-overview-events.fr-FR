@@ -1,6 +1,6 @@
 ---
 source-git-commit: 45b5e3d8839ce08c208eb30eb18c0924ba9564c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '430'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ Votre contribution dépend de votre rôle et du type de modification que vous so
 
 ### Modifications mineures
 
-Si vous contribuez à des mises à jour mineures dans un élan de générosité, consultez l’article et cliquez sur le lien **Modifier** dans l’article qui renvoie à la source GitHub correspondante. Ensuite, utilisez l’interface utilisateur de GitHub pour effectuer vos mises à jour. Voir le [Guide du contributeur de la documentation Adobe](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) pour plus d’informations.
+Si vous contribuez à des mises à jour mineures dans un élan de générosité, consultez l’article et cliquez sur le lien **Modifier** dans l’article qui renvoie à la source GitHub correspondante. Ensuite, utilisez l’interface utilisateur de GitHub pour effectuer vos mises à jour. Voir le [Guide du contributeur de la documentation Adobe](https://docs.adobe.com/content/help/fr-FR/contributor/contributor-guide/introduction.html) pour plus d’informations.
 
 Les corrections mineures ou les clarifications que vous soumettez pour la documentation et les exemples de code dans ce référentiel sont couverts par les conditions d’utilisation d’Adobe.
 
@@ -43,7 +43,7 @@ Si vous êtes rédacteur technique, chef de programme ou développeur de l’éq
 
 Les contributeurs de la communauté peuvent utiliser l’interface utilisateur de GitHub pour les modifications de base ou dupliquer (fork) le référentiel pour apporter des contributions majeures.
 
-Pour plus d’informations, voir le [Guide du contributeur de la documentation Adobe](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Pour plus d’informations, voir le [Guide du contributeur de la documentation Adobe](https://docs.adobe.com/content/help/fr-FR/contributor/contributor-guide/introduction.html).
 
 ## Utilisation du langage Markdown pour mettre en forme votre rubrique
 
