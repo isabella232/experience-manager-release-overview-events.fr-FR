@@ -5,8 +5,8 @@ user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: 78db7decd3b6283f8a20766e7f8aa4a19adc8a26
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,9 +26,9 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Man
       <div>
         <a href="./2022/2022-6-0.md">
           <strong>Version | 2022.6.0</strong>
-          <br/>
-        </a>
-          <em>Date de publication 30 juin 2022 </em>
+        <br/>
+      </a>
+        <em>Date de publication : 30 juin 2022 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Notes de mise à jour</a>
@@ -48,9 +48,9 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Man
       <div>
         <a href="./2022/2022-5-0.md">
           <strong>Version | 2022.5.0</strong>
-          <br/>
-        </a>
-          <em>Date de publication 9 juin 2022 </em>
+        <br/>
+      </a>
+        <em>Date de publication : 9 juin 2022 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Notes de mise à jour</a>
