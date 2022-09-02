@@ -5,8 +5,8 @@ user-guide-description: Obtenez un aperçu rapide sur les dernières fonctionnal
 breadcrumb-title: Mises à jour de version d’AEM CS
 source-git-commit: 2d88e857596635f74b6c551ab7f79440744bcff1
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
