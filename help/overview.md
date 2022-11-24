@@ -4,9 +4,9 @@ description: Obtenez un aperçu rapide sur les dernières fonctionnalités d’A
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: 105313398adca0568fae0b25a5df876729abdebd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '207'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Man
       </a>
       <div>
         <a href="./2022/2022-10-0.md">
-          <strong>Version | 2022.10.0</strong>
-          <br/>
-        </a>
-          <em>Date de publication 13 octobre 2022 </em>
+ <strong>Version | 2022.10.0</strong>
+ <br/>
+ </a>
+ <em>Date de publication : 13 octobre 2022 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Notes de mise à jour</a>
@@ -53,7 +53,7 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Man
           <em>Date de publication : 1er septembre 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Notes de mise à jour</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Notes de mise à jour</a>
       <p>
     </td>
     <td>
@@ -68,7 +68,7 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Man
           <em>Date de publication : 8 août 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Notes de mise à jour</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Notes de mise à jour</a>
       <p>
     </td>
     <td>
@@ -83,7 +83,7 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Man
         <em>Date de publication : 30 juin 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Notes de mise à jour</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Notes de mise à jour</a>
       <p>
     </td>
   </tr>
@@ -100,7 +100,7 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Man
         <em>Date de publication : 9 juin 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Notes de mise à jour</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Notes de mise à jour</a>
       <p>
     </td>
     <td>
@@ -115,7 +115,7 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Man
         <em>Publiée le 5 mai 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Notes de mise à jour</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Notes de mise à jour</a>
       <p>
     </td>
     <td>
@@ -130,7 +130,7 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Man
         <em>Publiée le 31 mars 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Notes de mise à jour</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Notes de mise à jour</a>
       <p>
     </td>
   </tr>
