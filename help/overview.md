@@ -4,9 +4,9 @@ description: Obtenez un aperçu rapide sur les dernières fonctionnalités d’A
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: f0bb8749fd075a4fcc366d28c6606087e323a9f7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Man
           <strong>Version | 2023.1.0</strong>
           <br/>
         </a>
-          <em>Date de publication février 2023 </em>
+          <em>Date de publication : fév. 2023 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Notes de mise à jour</a>
@@ -47,10 +47,10 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Man
       </a>
       <div>
         <a href="./2022/2022-10-0.md">
- <strong>Version | 2022.10.0</strong>
- <br/>
- </a>
- <em>Date de publication : 13 octobre 2022 </em>
+          <strong>Version | 2022.10.0</strong>
+          <br/>
+        </a>
+          <em>Date de publication : 13 octobre 2022</em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Notes de mise à jour</a>
@@ -62,10 +62,10 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Man
       </a>
       <div>
         <a href="./2022/2022-8-0.md">
-          <strong>Version | 2022.8.0</strong>
-          <br/>
-        </a>
-          <em>Date de publication : 1er septembre 2022 </em>
+          <strong>Version | 2022.8.0</strong>
+          <br/>
+        </a>
+          <em>Date de publication : 1er septembre 2022 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Notes de mise à jour</a>
